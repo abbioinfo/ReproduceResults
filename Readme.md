@@ -7,4 +7,4 @@ The following sections allow the generatation and plotting of the results used i
 
 ### Task 3: Application of CyAnno on public datasets
 
-### Task 4: Comparative analysis, CyAnno vs (DeepCyTOF and LDA)
+### Task 4: Comparative analysis: CyAnno vs (DeepCyTOF and LDA)
