@@ -1,7 +1,7 @@
 # CyAnno: Result reproduction
 The following sections allow the generatation and plotting of the results used in orignal CyAnno publication.
 
-### Task 1: Ungated cells in public dataset
+### Task 1: Ungated cells in public datasets
 
 ### Task 2: Application of DeepCyTOF and LDA on public datasets
 
